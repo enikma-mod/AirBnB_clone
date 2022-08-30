@@ -11,4 +11,6 @@ Our application will be composed by:
   * A database or files that store data
   * An API that provides a communication interface between the front-end and our data
 
-![airbnb clone overview](https://imgur.com/a/zn80wHD)
+# Diagram Overview
+We are going to develop the backend as well as the frontend part of the website. The diagram below outlines the entire project and the technologies which will be used.
+![AirBnB clone overview](https://i.imgur.com/1aGv7yg.png "AirBnB clone overview")
