@@ -1,17 +1,9 @@
 header {
-	background-color: white;
-	border-bottom: 1px solid #CCCCCC;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	height: 70px;
-	width: 100%;
-}
-
-header .logo {
-	background-image: url('../images/logo.png');
-	background-repeat: no-repeat;
-	height: 60px;
-	margin-left: 20px;
-	width: 142px;
+    background-color: #FFFFFF;
+    background-image: url("../images/HBTN_logo.png");
+    background-position: left-top;
+    background-repeat: no-repeat;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
 }
